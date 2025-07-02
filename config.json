@@ -1,0 +1,7 @@
+{
+    "download_path": "downloads",
+    "background_video": "background.mp4",
+    "default_volume": 0.3,
+    "playlist_limit": 20,
+    "rotation": null
+}
